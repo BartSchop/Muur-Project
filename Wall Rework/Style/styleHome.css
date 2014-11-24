@@ -1,0 +1,91 @@
+*{
+	padding : 0px ;
+	margin : 0px ;
+}
+body{
+	background-color : #00BFFF ;
+	background-image : url("Muur.jpg");
+	background-size : 100% ;
+}
+div.default{
+	width : 98,9% ;
+	background-color: rgba(0, 0, 0, 0.4);
+	border : 1px solid white ;
+	border-bottom-left-radius : 20px ;
+	border-bottom-right-radius : 20px ;
+	padding : 5px ;
+}
+div.logo{
+	text-align : left ;
+	position : absolute ;
+}
+div.button{
+	text-align : right ;
+	padding : 5px ;
+	padding-right : 20px ;
+}
+li{
+	display : inline ;
+}
+img{
+	max-width : 25% ;
+	max-height : 25% ;
+}
+div.info{
+	background-color: rgba(0, 0, 0, 0.7);
+	width : 95% ;
+	margin-left : auto ;
+	margin-right : auto ;
+	text-align : left ;
+	border : 1px solid white ;
+	border-radius : 20px ;
+	margin-top : 20px ;
+	margin-bottom : 20px ;
+	padding : 10px ;
+	padding-bottom : 23% ;
+}
+p{
+	color : white ;
+	padding-bottom : 20px ;
+	font-size : 20px ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+h2{
+	padding-bottom : 20px ;
+	color : white ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+h3{
+	color : white ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+button{
+	padding : 5px ;
+}
+div.basic{
+	background-color: rgba(0, 0, 0, 0.7);
+	text-align : left ;
+	border : 1px solid white ;
+	border-radius : 20px ;
+	width : 35% ;
+	margin-left : auto ;
+	margin-right : auto ;
+	margin-top : 30px ;
+	padding : 10px ;
+}
+div.basic1{
+	background-color: rgba(0, 0, 0, 0.7);
+	text-align : left ;
+	border : 1px solid white ;
+	border-radius : 20px ;
+	width : 50% ;
+	margin-left : auto ;
+	margin-right : auto ;
+	margin-top : 30px ;
+	padding : 10px ;
+}
+label{
+	width : 55% ;
+	float : left ;
+	text-align : left ;
+}

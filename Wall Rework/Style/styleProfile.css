@@ -1,0 +1,120 @@
+*{
+	padding : 0px ;
+	margin : 0px ;
+}
+body{
+	background-color : #00BFFF ;
+	background-image : url("Muur.jpg");
+	background-size : 100% ;
+}
+div.default{
+	width : 98,9% ;
+	background-color: rgba(0, 0, 0, 0.4);
+	border : 1px solid white ;
+	border-bottom-left-radius : 20px ;
+	border-bottom-right-radius : 20px ;
+	padding : 5px ;
+}
+div.logo{
+	text-align : left ;
+	position : absolute ;
+}
+div.button{
+	text-align : right ;
+	padding : 5px ;
+	padding-right : 20px ;
+}
+a:hover{
+	color : yellow ;
+	text-decoration : underline ;
+}
+p{
+	color : white ;
+	padding-bottom : 20px ;
+	font-size : 20px ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+h2{
+	padding-bottom : 20px ;
+	color : white ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+h3, h5, h4{
+	color : white ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+button{
+	padding : 5px ;
+}
+ul.top li{
+	display : inline ;
+}
+ul.menu li{
+	color : white ;
+	list-style : none ;
+	padding : 5px ;
+	font-size : 20px ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+a{
+	text-decoration : none ;
+	color : white ;
+}
+img{
+	max-width : 25% ;
+	max-height : 25% ;
+}
+div.leftmenu{
+	margin-top : 50px ;
+	margin-left : 10px ;
+	background-color: rgba(0, 0, 0, 0.4);
+	border : 1px solid white ;
+	border-radius : 20px ;
+	padding : 5px ;
+	width : 15% ;
+	height : 78% ;
+	position : absolute ;
+}
+div.basic{
+	width : 80% ;
+	background-color: rgba(0, 0, 0, 0.4);
+	border : 1px solid white ;
+	border-radius : 20px ;
+	padding : 5px ;
+	margin-left : 250px ;
+	margin-top : 50px ;
+}
+ul.infoprofiel li{
+	color : white ;
+	list-style : none ;
+	font-size : 20px ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+}
+label{
+	width : 25% ;
+	float : left ;
+	text-align : left ;
+}
+th{
+	color : white ;
+	text-shadow : 2px 0 0 #000000, -2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+	text-align : left ;
+	padding-right : 20px ;
+	padding-left : 10px ;
+	padding-top : 5px ;
+	padding-bottom : 5px ;
+}
+table{
+	border : 1px solid white ;
+	border-radius : 20px ;
+	width : 50% ;
+}
+div.basic1{
+	width : 80% ;
+	background-color: rgba(0, 0, 0, 0.4);
+	border : 1px solid white ;
+	border-radius : 20px ;
+	padding : 5px ;
+	margin-left : 10px ;
+	margin-top : 10px ;
+}
